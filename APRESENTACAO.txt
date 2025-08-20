@@ -1,7 +1,0 @@
-iesb
-
-disciplina: Construcao de Backand
-
-Turma: 2A 
-
- gustavo clay
