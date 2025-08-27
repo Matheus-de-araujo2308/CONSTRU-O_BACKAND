@@ -1,0 +1,24 @@
+{
+  "name": "constru-o_backand",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-de-araujo2308/CONSTRU-O_BACKAND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheus-de-araujo2308/CONSTRU-O_BACKAND/issues"
+  },
+  "homepage": "https://github.com/Matheus-de-araujo2308/CONSTRU-O_BACKAND#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
